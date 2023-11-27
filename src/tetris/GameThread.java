@@ -25,7 +25,7 @@ public class GameThread extends Thread {
             while (ga.moveBlockDown()) {
                 try {
 
-                    Thread.sleep(1000);
+                    Thread.sleep(700);
                 } catch (InterruptedException ex) {
                     Logger.getLogger(GameThread.class.getName()).log(Level.SEVERE, null, ex);
                 }
