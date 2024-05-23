@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://teamby.team/">
-<img width="150px" src="https://github.com/joonone2/Tetris/assets/129241680/343bf252-e7bc-4afa-9855-96c15f3bff21" alt="Tetris 이동하기"/>
+<img width="150px" src="https://cdn-1.webcatalog.io/catalog/tetris/tetris-icon-filled-256.png?v=1714818031807" alt="Tetris 이미지"/>
 </a>
 
 
