@@ -62,13 +62,7 @@ Tetris 게임화면
 
 
 
-## ⚙️ Infra
 
-<img width="600px" src=''  alt="Infra"/>
-
-## 🪄 CI/CD
-
-<img width="600px" src=''  alt="CI/CD"/>
 
 ## 🏆 Tetris 사용자 매뉴얼
 
